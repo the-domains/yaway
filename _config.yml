@@ -1,0 +1,14 @@
+layout_spectrum: 0.5551916067488492
+typography_spectrum: 0.3137267322745174
+color:
+  brandStrength: 0.5370246386155486
+  lightness: 0.5176525588613003
+  saturation: 0.1818029743153602
+  rhythmicContrast: 0.8740460041444749
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Yaway
