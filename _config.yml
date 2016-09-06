@@ -11,5 +11,6 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.5551916067488492
-name: Yaway
+name: yaway
 title: some sort of web site
+description: and then a tag line
